@@ -1,0 +1,6 @@
+# Each sub-project has its own .gitignore for its own build/dependency
+# artifacts (backend/.gitignore, frontend/.gitignore). This one just covers
+# things that could show up at the repo root.
+.DS_Store
+*.log
+.env
